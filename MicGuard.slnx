@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MicGuard.Services/MicGuard.Services.csproj" />
+  <Project Path="MicGuard.Ui/MicGuard.Ui.csproj" />
+</Solution>
