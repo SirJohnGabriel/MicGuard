@@ -70,3 +70,6 @@ nunit-*.xml
 
 # NuGet restore
 packages/
+
+# Local Folder for Testing/images/assets
+local
