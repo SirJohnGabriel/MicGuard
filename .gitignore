@@ -55,12 +55,9 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
 # Visual Studio cache (locked while VS is open — must not be tracked)
 .vs/
-
-# Build output
-[Bb]in/
-[Oo]bj/
 
 # User-specific files
 *.user
@@ -71,9 +68,5 @@ nunit-*.xml
 # Rider / VS Code
 .idea/
 
-# NuGet
-*.nupkg
+# NuGet restore
 packages/
-
-# Test results
-[Tt]est[Rr]esult*/
