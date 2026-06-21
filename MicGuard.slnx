@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="MicGuard.Services/MicGuard.Services.csproj" />
   <Project Path="MicGuard.Ui/MicGuard.Ui.csproj" />
+  <Project Path="MicGuard.Wpf/MicGuard.Wpf.csproj" Id="8f4612cf-e081-400f-b89d-ac7a883b3e06" />
 </Solution>
